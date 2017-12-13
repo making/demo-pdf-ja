@@ -88,7 +88,7 @@
             </snapshots>
         </repository>
         <repository>
-            <id>bintray.com-spance-maven</id>
+            <id>bintray.com-spance-maven</id><!-- Warning: Who manages this ?? -->
             <name>bintray.com-spance-maven</name>
             <url>https://dl.bintray.com/spance/maven</url>
             <snapshots>
